@@ -6,7 +6,7 @@ public class ReadCSV
 {
     public static void main(String[] args) throws IOException
     {
-        File fn = new File("C:/Users/Jay/Documents/Mycelium Project/VI_data.csv");
+        File fn = new File("C:/Users/.../VI_data.csv");
         Scanner scan = new Scanner(fn);
 
         while (scan.hasNextLine())
