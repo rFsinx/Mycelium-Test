@@ -2,6 +2,9 @@
 for back up
 
 ## Time|Voltage|Current Chart
+<p align="center">
+  <img src="img12345.png" alt="aa" width="100%">
+</p>
 
 
 ## Resistance Graph
