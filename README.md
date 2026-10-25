@@ -1,6 +1,10 @@
 # Mycelium-Test
 for back up
 
+## Time|Voltage|Current Chart
+
+
+## Resistance Graph
 <p align="center">
   <img src="resistanceDistributionByTime.png" alt="aa" width="100%">
 </p>
