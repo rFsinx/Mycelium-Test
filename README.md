@@ -2,8 +2,15 @@
 for back up
 
 ## Time|Voltage|Current Chart
+
+at V = 0, the current remains
+
 <p align="center">
-  <img src="img12345.png" alt="aa" width="25%">
+  <img src="My imagination.pdf" alt="aa" width="50%">
+</p>
+
+<p align="center">
+  <img src="img12345.png" alt="aa" width="5%">
 </p>
 
 
