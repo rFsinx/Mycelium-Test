@@ -15,10 +15,6 @@ at V = 0, the current remains
   <img src="my imagination.jpg" alt="aa" width="50%">
 </p>
 
-<p align="center">
-  <img src="img12345.png" alt="aa" width="15%">
-</p>
-
 
 ## Resistance Graph
 <p align="center">
