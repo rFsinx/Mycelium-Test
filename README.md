@@ -12,7 +12,7 @@ My Imagination
 </p>
 
 <p align="center">
-  <img src="img12345.png" alt="aa" width="5%">
+  <img src="img12345.png" alt="aa" width="15%">
 </p>
 
 
