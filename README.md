@@ -6,7 +6,7 @@ for back up
 at V = 0, the current remains
 
 <p align="center">
-  <img src="My imagination.jpg" alt="aa" width="50%">
+  <img src="my imagination.jpg" alt="aa" width="50%">
 </p>
 
 <p align="center">
