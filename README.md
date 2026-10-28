@@ -4,7 +4,7 @@ for back up
 ## Time|Voltage|Current Chart
 
 <p align="center">
-  <img src="img12345.png" alt="aa" width="15%">
+  <img src="img12345.png" alt="aa" width="10%">
 </p>
 
 at V = 0, the current remains
