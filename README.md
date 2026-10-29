@@ -26,7 +26,7 @@ at V = 0, the current remains
 
 ## Resistance Graph
 <p align="center">
-  <img src="resistanceDistributionByTime.png" alt="aa" width="100%">
+  <img src="resistanceDistributionByTime.png" alt="aa" width="75%">
 </p>
 
 - Environment: Java (Custom data parsing & visualization PDF)
